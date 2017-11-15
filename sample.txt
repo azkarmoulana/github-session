@@ -8,4 +8,7 @@ java script
 scala
 angular
 node
+c#
+python
+
 
