@@ -3,3 +3,6 @@ c
 c++
 html
 php
+css
+java script
+scala
