@@ -6,3 +6,6 @@ php
 css
 java script
 scala
+angular
+node
+
